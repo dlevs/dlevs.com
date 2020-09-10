@@ -43,7 +43,7 @@
 		"lazysizes": "^4.0.4",
 		"lodash": "^4.17.10",
 		"moment": "^2.22.2",
-		"node-fetch": "^2.1.2",
+		"node-fetch": "^2.6.1",
 		"normalize-url": "^3.0.1",
 		"normalize.css": "^8.0.0",
 		"pug": "^2.0.3",
